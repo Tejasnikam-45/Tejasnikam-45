@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td><strong>💻 Projects:</strong></td>
-    <td>Virtual Mouse App (Flutter + Python), Food Recommendation System, Deepfake Detection Model, Chatbot, Smart Home Automation(IoT project)</td>
+    <td>Travel Planner Website, Deepfake Detection Model, Chatbot, Smart Home Automation(IoT project)</td>
   </tr>
 </table>
 
