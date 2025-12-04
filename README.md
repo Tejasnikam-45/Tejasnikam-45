@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Tejas Nikam</h1>
-<h3 align="center">🎓 Third Year IT Student | 📍 University of Mumbai</h3>
+<h3 align="center">🎓 Final Year IT Student | 📍 University of Mumbai</h3>
 
 <p align="center">
-  🚀 Passionate about Full Stack Development, AI & Data Science<br>
+  🚀 Passionate about Artificial Intelligence, Machine Learning, Data Science and Full Stack Development<br>
   💡 Exploring new technologies and building innovative solutions
 </p>
 
@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td><strong>💻 Projects:</strong></td>
-    <td>Travel Planner Website, Deepfake Detection Model, Chatbot, Smart Home Automation(IoT project)</td>
+    <td>Clickk: An Intelligent code editor, Chest X-Ray Multi-Label Disease Classification, Travel Planner Website, Deepfake Detection Model, Chatbot, Smart Home Automation(IoT project)</td>
   </tr>
 </table>
 
@@ -42,14 +42,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TejasNikam-45&show_icons=true&theme=dracula&include_all_commits=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasNikam-45&layout=compact&theme=dracula" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejasnikam-45&show_icons=true&theme=dracula&include_all_commits=true" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasnikam-45&layout=compact&theme=dracula" height="150" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TejasNikam-45&theme=dracula" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejasnikam-45&theme=dracula" alt="Contribution Graph" />
 </div>
 
 ---
