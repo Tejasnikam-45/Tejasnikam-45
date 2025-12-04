@@ -41,16 +41,20 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejasnikam-45&show_icons=true&theme=dracula&include_all_commits=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasnikam-45&layout=compact&theme=dracula" height="150" alt="Top Languages" />
-</div>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejasnikam-45&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"
+    height="180"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasnikam-45&layout=compact&theme=dracula&cache_seconds=1800"
+    height="180"
+  />
+</p> -->
 
----
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejasnikam-45&theme=dracula" alt="Contribution Graph" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejasnikam-45&theme=dracula"
+    width="95%"
+  />
+</p>
 
 ---
 
