@@ -23,11 +23,11 @@
   </tr>
   <tr>
     <td><strong>💼 Career Goals:</strong></td>
-    <td> Data Scientist , Data Analytics, AI & ML </td>
+    <td> Data Science , Data Analytics, AI & ML </td>
   </tr>
   <tr>
-    <td><strong>🌱 Currently Learning:</strong></td>
-    <td>React.js, Node.js, MongoDB, ML with Python</td>
+    <td><strong>🌱Technologies:</strong></td>
+    <td>React.js, Node.js, MongoDB, ML with Python, Deep Learning (CNNs)</td>
   </tr>
   <tr>
     <td><strong>💻 Projects:</strong></td>
